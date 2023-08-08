@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **djanga, audio manipulation with JavaScript**
 
-- 👨‍💻 All of my projects are available at [srikant-subramanian.tech](srikant-subramanian.tech)
+- 👨‍💻 My portfolio website [srikant-subramanian.tech](https://srikant-subramanian.tech)
 
 - 📫 How to reach me **srikantvenkatsubramanian@gmail.com**
 
