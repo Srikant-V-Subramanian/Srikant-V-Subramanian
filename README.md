@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Django**
 
-- 🤝 I’m looking for help with **djanga, audio manipulation with JavaScript**
+- 🤝 I’m looking for help with **django, audio manipulation with JavaScript**
 
 - 👨‍💻 My portfolio website [srikant-subramanian.tech](https://srikant-subramanian.tech)
 
