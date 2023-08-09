@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srikant</h1>
+<h1 align="center">Hi 👋, I'm Srikant!</h1>
 <h3 align="center">A high school student who is passionate about computers and music.</h3>
 
 <p align="left"> <a href="https://twitter.com/srikant_404" target="blank"><img src="https://img.shields.io/twitter/follow/srikant_404?logo=twitter&style=for-the-badge" alt="srikant_404" /></a> </p>
